@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rrkuw7sqngDPtV3+jH48JHSGYI3UD7RRNQLHfJ4n0dc=",
+  "Source": "SaltOverFlowApi",
+  "BasePath": "_content/SaltOverFlowApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
